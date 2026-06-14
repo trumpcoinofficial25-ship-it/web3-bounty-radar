@@ -1,0 +1,4 @@
+spectral-lux/
+__pycache__/
+.DS_Store
+.env
